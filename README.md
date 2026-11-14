@@ -1,5 +1,2 @@
 # obsidianvault
-chillbro
-dsadasd 
-
-dsa
+This is how to sync obsidian with git
